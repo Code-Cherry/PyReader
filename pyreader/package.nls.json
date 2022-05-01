@@ -1,0 +1,4 @@
+{
+    "config.pyreader.outputPos": "Determine where to output the HTML file",
+    "config.pyreader.outputSound": "Play a sound when the HTML file is generated"
+}
